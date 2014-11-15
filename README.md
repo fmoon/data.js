@@ -37,11 +37,11 @@ require(['data'], function (Data) {
 });
 ```
 
-###bower
+###Bower
 
 	$ bower install data.js
 
-###node.js
+###Node.js
 
 ```
 $ npm install data_js//从npm安装
